@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295240674285",
+    "firebase_url": "https://photo-app-a19d6.firebaseio.com",
+    "project_id": "photo-app-a19d6",
+    "storage_bucket": "photo-app-a19d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295240674285:android:a751a469b515058a",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.quotespire.www.fire_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295240674285-dckn2i96ho24fc5jfi55m9342e09mac6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXu5FmvBoE5qtmmgrJ0APPXaIprbbdCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295240674285-dckn2i96ho24fc5jfi55m9342e09mac6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
